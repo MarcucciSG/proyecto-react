@@ -1,0 +1,9 @@
+.btnProducto {
+  background-color: #0c31ac;
+  color: white;
+  font-size: 1.2rem;
+  width: 8rem;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+}
