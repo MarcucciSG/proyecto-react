@@ -1,0 +1,30 @@
+.divDetail{
+    display: flex;
+    flex-direction: column;  
+    background-color: #331b9c;
+    color: white;
+    align-items: center;
+    padding: 2rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    margin: 3rem;
+    max-width: 800px;
+    margin: 3rem auto;
+}
+
+.divDetail h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.divDetail h3 {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.divDetail img {
+    width: 100%;
+    max-width: 500px;
+    margin-bottom: 2rem;
+    border-radius: 5px;
+}

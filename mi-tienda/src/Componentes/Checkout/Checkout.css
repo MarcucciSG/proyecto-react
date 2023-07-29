@@ -1,0 +1,13 @@
+.divForm{
+    display: flex;
+    flex-direction: column;  
+    background-color: #7e66e9;
+    color: white;
+    align-items: center;
+    padding: 2rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    margin: 4rem;
+    max-width: 800px;
+    margin: 3rem auto;
+}

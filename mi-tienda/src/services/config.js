@@ -2,7 +2,7 @@ import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCnZuKo2_TL7ioYsson9WwQy66RrUvGQJo",
+  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
   authDomain: "mi-tientareactjs.firebaseapp.com",
   projectId: "mi-tientareactjs",
   storageBucket: "mi-tientareactjs.appspot.com",
